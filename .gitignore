@@ -1,0 +1,9 @@
+# real network scan exports — never publish these
+scan.xml
+*.csv
+
+# saved map projects (may contain network details)
+*.netmap.json
+
+# local tooling
+.claude/
