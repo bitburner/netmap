@@ -1,7 +1,10 @@
 # NetMap
 
-A single-file network diagram editor. Open **`netmap.html`** in any modern browser
-(just double-click it) — no install, no server, works offline.
+**▶ Use it now: [bitburner.github.io/netmap](https://bitburner.github.io/netmap/)** — nothing to install.
+
+A single-file network diagram editor. Runs entirely in your browser: use the link
+above, or download **`index.html`** and double-click it — works offline, and your
+data never leaves your machine either way.
 
 ## What it does
 
@@ -39,5 +42,5 @@ A single-file network diagram editor. Open **`netmap.html`** in any modern brows
 
 ## Files
 
-- `netmap.html` — the whole app
+- `index.html` — the whole app
 - `docs/specs/` — design notes
